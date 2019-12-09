@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TaskDevSel</string>
+    <string name="spinner_title">spinner title</string>
+    <string-array name="items_class">
+        <item>12-NOVEMBER-2019</item>
+        <item>13-NOVEMBER-2019</item>
+        <item>14-NOVEMBER-2019</item>
+    </string-array>
+    <string name="spinner_title2">spinner title2</string>
+    <string-array name="items_class2">
+        <item>09:00 Am</item>
+        <item>10:00 Am</item>
+        <item>11:00 Am</item>
+    </string-array>
+</resources>
